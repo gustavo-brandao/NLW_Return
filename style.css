@@ -10,7 +10,7 @@
     --headline: hsl(210, 11%, 15%);
     --paragraph: hsl(210, 9%, 31%);
 
-
+    --brand-beige: hsl(39, 100%, 97%);
 
     font-size: 62.5%; /* 1rem = 10px por causa dessa propriedade */
 }
@@ -71,4 +71,13 @@ button {
 
     margin-right: auto;
     margin-left: auto;
+}
+
+.stats{
+    width: 32.7rem;
+    height: 47rem;
+
+    margin-inline: auto;
+
+    background-color: var(--brand-beige);
 }
