@@ -80,4 +80,6 @@ button {
     margin-inline: auto;
 
     background-color: var(--brand-beige);
+
+    display: flex;
 }
